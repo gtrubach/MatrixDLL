@@ -20,6 +20,7 @@ There is simple example of creating DLL and writing Unit tests for it.
 
         Visual C++->Win32->Win32 Console Application
 and set the checkpoint on `Create directory for solution`
+
 4. In wizard's `Application Settings` tab choose
 
         Appliction type: DLL
